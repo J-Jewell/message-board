@@ -1,0 +1,26 @@
+{
+  "name": "message-board",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/J-Jewell/message-board.git"
+  },
+  "keywords": [
+    "message",
+    "board"
+  ],
+  "author": "Jason Jewell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/J-Jewell/message-board/issues"
+  },
+  "homepage": "https://github.com/J-Jewell/message-board#readme",
+  "description": "",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
